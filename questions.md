@@ -15,7 +15,7 @@ ES6 stands for "ECMAScript 6," which is also known as "ECMAScript 2015." It is t
 What company famously used the phrase "Don't be evil" in their code of conduct?
 
 ```
-
+Google famously used the phrase "Don't be evil" in their code of conduct. The phrase was included in the company's corporate code of conduct and it was intended to remind employees of the company's commitment to doing business in an ethical and responsible manner. The phrase was later removed from the code of conduct in 2018.
 ```
 
 What English mathematician and writer is often regarded as the first computer programmer?
