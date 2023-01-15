@@ -9,7 +9,8 @@ Year 1995
 What does "ES6" stand for?
 
 ```
-
+ES6 stands for ECMAScript 6; ECMA stands for 
+European Computer Manufacturers Association Script
 ```
 
 What company famously used the phrase "Don't be evil" in their code of conduct?
