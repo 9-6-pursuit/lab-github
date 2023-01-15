@@ -9,7 +9,7 @@ What year did Brendan Eich create JavaScript?
 What does "ES6" stand for?
 
 ```
-ES6 stands for ECMAScript 6; ECMAScript is another official name for Javascript, since the organization ECMA International creates the standard.
+ES6 stands for ECMAScript 6.
 ```
 
 What company famously used the phrase "Don't be evil" in their code of conduct?
@@ -27,5 +27,5 @@ Ada Lovelace
 Who is the "Turing machine" named after?
 
 ```
-
+Alan Turing
 ```
