@@ -27,5 +27,5 @@ Ada Lovelace is often regarded as the first computer programmer. She was an Engl
 Who is the "Turing machine" named after?
 
 ```
-
+The "Turing machine" is named after Alan Turing, an English mathematician, logician, and computer scientist who is widely considered to be the father of theoretical computer science and artificial intelligence
 ```
