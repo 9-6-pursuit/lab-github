@@ -25,7 +25,7 @@ Backrub, I mean Google. (probably the smartest name change of all time honestly.
 What English mathematician and writer is often regarded as the first computer programmer?
 
 ```
-
+Ada Lovelace
 ```
 
 Who is the "Turing machine" named after?
