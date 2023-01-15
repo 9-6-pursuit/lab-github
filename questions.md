@@ -9,7 +9,7 @@ What year did Brendan Eich create JavaScript?
 What does "ES6" stand for?
 
 ```
-
+"ES6" stands for ECMAScript 6, also known as ECMAScript 2015. It is the sixth version of the ECMAScript programming language, which is the standard for JavaScript.
 ```
 
 What company famously used the phrase "Don't be evil" in their code of conduct?
