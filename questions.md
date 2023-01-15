@@ -27,5 +27,5 @@ Ada Lovelace, an English mathematician and writer, is often regarded as the firs
 Who is the "Turing machine" named after?
 
 ```
-
+The "Turing machine" is named after Alan Turing
 ```
