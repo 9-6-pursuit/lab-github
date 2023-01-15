@@ -3,6 +3,10 @@
 What year did Brendan Eich create JavaScript?
 
 ```
+1
+9
+9
+5
 
 ```
 
