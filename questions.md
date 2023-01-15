@@ -21,7 +21,7 @@ Google famously used the phrase "Don't be evil" in their code of conduct. The ph
 What English mathematician and writer is often regarded as the first computer programmer?
 
 ```
-
+Ada Lovelace is often regarded as the first computer programmer. She was an English mathematician and writer who is credited with writing the first algorithm intended to be processed by Charles Babbage's Analytical Engine, a general-purpose mechanical computer that was proposed in the 19th century but was never built. 
 ```
 
 Who is the "Turing machine" named after?
