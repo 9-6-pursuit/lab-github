@@ -10,6 +10,7 @@ JavaScript was invented by Brendan Eich in 1995
 What does "ES6" stand for?
 
 ```
+ES6 stands for ECMAScript 6
 
 ```
 
