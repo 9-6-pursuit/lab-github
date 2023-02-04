@@ -25,6 +25,7 @@ The updated version of Google's code of conduct still retains one reference to t
 What English mathematician and writer is often regarded as the first computer programmer?
 
 ```
+Ada Lovelace is considered the first computer programmer.
 
 ```
 
